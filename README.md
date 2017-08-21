@@ -1,4 +1,4 @@
-# Game Code Review & Refactor
+# Code Review
 
 In this module we will explore the concept of _style_ in programming:
 * **What does _Good Style_ look like in code?**
